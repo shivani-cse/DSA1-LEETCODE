@@ -3,5 +3,6 @@ class Solution:
         res=[]
         for num in nums:
             res.append(num*num)
-        res.sort()
-        return res    
+            res.sort()
+        return res
+            
